@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<blc>
+	<lattice name="Ferrochrome" x="0.2866" y="0.2866" z="0.2866" A="90" B="90" G="90"/>
+	<elements>
+		<element name="Fe" color="#2732d3" radius="0.117">
+			<atom x="0" y="0" z="0"/>
+		</element>
+		<element name="Cr" color="#f3c212" radius="0.139">
+			<atom x="50" y="50" z="50"/>
+		</element>
+	</elements>
+</blc>
